@@ -1,18 +1,76 @@
-main {
-    background-color: blue;
-    font-size: 30px;
-    margin: auto;
-    padding: 50px 50px;
-    width:100%;
-
-}
+h1 {
+    font-size: 55px;
+  }
+  
+  h2 {
+    font-size: 50px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
 
 .main-section { 
-
-
+    background-color:blanchedalmond(11, 13, 17);
+    color:blue(183, 198, 211);
+    overflow: hidden;
 
 }
-
+#navbar a href,#navbar a{
+    margin: 5px;
+    float: br right;
+    color:blue;
+    text-align: left;
+    font-size: 1.2em;
+    display: block;
+    padding: 14px 16px;
+}
 #introduction {
+    text-align: left;  
+}
+body {
+    background-color: white;
+  }
+  #navbar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px 5px 5px 30px;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+  }
 
+  
+  
+  p {
+    font-weight: normal;
+    font-weight: lighter;
+    font-weight: 900;
+  }
+  header {
+    font-weight: normal;
+    font-weight: lighter;
+    font-weight: bold;
+    font-weight: 1000;
+    font-size: 45px;
+    
+  }
+  a href {
+    text-align: left;
+    padding: 8px;
+  }
+
+  a href {
+    text-align: left;
+  }
+  code{
+    margin: br 5px;
+    float: br center;
+    color:blue;
+    text-align:br center;
+    font-size: br 1.2em;
+    display: br;
+    padding: 18px 20px;
+    background-color: black;
 }
